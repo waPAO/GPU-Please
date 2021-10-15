@@ -7,6 +7,7 @@
 * **[Getting Started](#getting-started)**
   * [Installation](#installation)
 * **[Usage](#usage)**
+* **[Acknowledgments](#acknowledgments)**
   
 
 <!-- ABOUT -->
@@ -79,7 +80,25 @@ url_headers = ({'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) A
    python3 script.py
    ```
    
-* Enter in the file name of the text file containing the GPU links
+* Enter in the file name of the text file containing the GPU links and press 'return'
    ```sh
    Please enter the name/path of your ".txt" file: gpu_links.txt
    ```
+* Open the .csv file titled "price_tracker.csv" in your faorite csv editor and view the data
+* Rerun the script to add updated data based on the time and date of when you run it
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Acknowledgments -->
+## Acknowledgments
+
+
+https://developers.whatismybrowser.com/
+
+https://www.w3schools.com/python/python_datetime.asp
+
+https://realpython.com/beautiful-soup-web-scraper-python/
+
+https://www.pcmag.com/news/inside-the-gpu-shortage-why-you-still-cant-buy-a-graphics-card
+
+<p align="right">(<a href="#top">back to top</a>)</p>
