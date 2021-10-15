@@ -104,7 +104,7 @@ def sort_and_append_data(extracted_data: list) -> None:
 def main():
     print('\n                                          Hello! Welcome to GPU Please!')
     print('          The following program is able to keep track of all your dream gpu prices and accessibilty on amazon!\n')
-    file = input('Please enter the name/path of your ".txt" file: ')
+    file = input('Please enter the name of your ".txt" file: ')
     print()
     links = create_links(file)
     data = extract_data(links)
