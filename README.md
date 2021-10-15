@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# GPU-Please 🙏
+<h1 align="center">GPU-Please 🙏</h1>
 
 <!-- TABLE OF CONTENTS -->
 * **[About The Project](#about-the-project)**
