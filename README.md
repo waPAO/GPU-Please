@@ -17,9 +17,9 @@ Prior to the launch of the NVIDIA 30-Series GPUs (3060, 3070, 3080, 3090) many i
 
 As NVIDIA and other supporting companies continue to try to recover from this, customers are left with the options of buying the GPUs for resell. Sellers have sold the GPUs from anywhere between $500 over retail to 2x the original amount and beyond.
 
-Many customers, including myself, have been following prices for months; hoping that prices would eventually fall. The downside to this is that there is no real way to track prices unless you write them down every time you check. This can become a drag in the long run and can lead to you to eventually give up on finding one for the right price.
+Many customers, including myself, have been following prices for months; hoping that prices would eventually fall. The downside to this is that there is no real way to track prices unless you write them down every time you check.
 
-GPU-Please is a simple and efficient way to keep track of gpu prices on Amazon. It is as simple as copying and pasting the Amazon links of the GPUs you are interested in to a text file and running the Python script. From there, the script will organize the data and display it in a .csv file sampled below.
+**GPU-Please** is a simple and efficient way to keep track of gpu prices on Amazon. It is as simple as copying and pasting the Amazon links of the GPUs you are interested in to a text file and running the Python script. From there, the script will organize the data and display it in a .csv file sampled below.
 
 #### :chart_with_upwards_trend: Sample Output :chart_with_downwards_trend:
 
