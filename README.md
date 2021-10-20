@@ -67,7 +67,7 @@ The text file already contains links to popular 30-Series GPUs, just change as n
 
 * You may need to adjust the user-agents used when sending the HTTP request depending on your OS and browser. 
 
-Shown below is the headers variable found in the extract_data() function that you shoud edit if needed to. PLEASE leave 'User-Agent' and just touch the value after.
+Shown below is the headers variable found in the extract_data() function that you should edit if needed to. PLEASE leave 'User-Agent' and just touch the value after.
 
 ```python
 url_headers = ({'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36', 'Accept-Language': 'en-US, en;q=0.5'})
